@@ -1,5 +1,5 @@
 # Multi Stage Docker build example
-`Dockerfile` contains various stages which are tagged by a name using `as`.
+`Dockerfile` scontains various stages which are tagged by a name using `as`.
 
 ## Commands used
 - `docker build . -t multi-stage-example:v1` - Build image
